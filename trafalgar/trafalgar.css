@@ -1,0 +1,42 @@
+body{
+ 
+
+}
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+.menyulist{
+    display: flex;
+
+}
+.list-active{
+    margin: 0 20px ;
+    font-family: "Mulish";
+    font-style: normal;
+    font-size: 18px;
+    line-height: 23px;
+    opacity: 0.5;
+    color: #1f15;
+
+}
+.list-active:hover{
+opacity: 1;
+
+}
+
+.section{
+
+}
+.section.p{
+
+}
+
